@@ -1,4 +1,4 @@
 
-Quantumult（圈）在线安装
+Quantumult（圈）
 
 https://Q.shadowrocket.org/
